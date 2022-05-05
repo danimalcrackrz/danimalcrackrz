@@ -21,13 +21,14 @@ I began my career in Tech at 16, fixing iPhone screens and have been hooked ever
 💪🏽 I'm strongest in:
 • React
 • HTML/CSS
-• NodeJs
+• NodeJS
 • PostgreSQL
 
 🤓 I'm currently learning:
-• NextJs
+• NextJS
 • Python
 • Testing
+• GraphQL
 
 🤯 Things about me:
 • Huge Lego Afficianado! Lets build something cool!
