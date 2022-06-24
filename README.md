@@ -15,11 +15,10 @@ Here are some ideas to get you started:
 Welcome to my Page
 
 ✌🏽 Pronouns: He/Him
-
-I began my career in Tech at 16, fixing iPhone screens and have been hooked ever since. I spent years working in Break/Fix and Technical Support, eventually leading to a role as the sole Backup Engineer at a medicial MSP. Even though I'd made it, I found myself continuously going back to development in my spare time. I've always been fascinated with coding, since the days of MySpace where I would make and customize themes for friends. I decided to pursue my passions for development and transition to a professional developer in 2016.
+I love to solve complex problems, and to create meaningful && memorable solutions. When not in front of my computer you can usually find me in a huge pile of Legos, with a cup of coffee or tea nearby. Well-Organized, problem-solver, && driven with high attention to detail. Big fan of Bob's Burgers, String Theory, and Black Holes.
 
 💪🏽 I'm strongest in:
-• ReactJs
+• ReactJs / NextJs
 • NodeJs
 • PostgreSQL
 
