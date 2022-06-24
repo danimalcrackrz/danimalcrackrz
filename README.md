@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 Welcome to my Page
 
 ✌🏽 Pronouns: He/Him
+
 I love to solve complex problems, and to create meaningful && memorable solutions. When not in front of my computer you can usually find me in a huge pile of Legos, with a cup of coffee or tea nearby. Well-Organized, problem-solver, && driven with high attention to detail. Big fan of Bob's Burgers, String Theory, and Black Holes.
 
 💪🏽 I'm strongest in:
