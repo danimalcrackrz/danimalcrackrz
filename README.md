@@ -12,24 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Welcome to my Page
+Hi there 👋🏽
 
-✌🏽 Pronouns: He/Him
+• Hi, my name is Daniel Shaw and I am a Web Developer living in Austin, Tx  
+• [My Portfolio Website](https://danimalcrackrz.com)
 
-I love to solve complex problems, and to create meaningful && memorable solutions. When not in front of my computer you can usually find me in a huge pile of Legos, with a cup of coffee or tea nearby. Well-Organized, problem-solver, && driven with high attention to detail. Big fan of Bob's Burgers, String Theory, and Black Holes.
 
-💪🏽 I'm strongest in:
-• ReactJs / NextJs
-• NodeJs
-• PostgreSQL
 
-🤓 I'm currently learning:
-• NextJs
-• Python
-• Testing
-• GraphQL
-
-🤯 Things about me:
-• Huge Lego Afficianado! Lets build something cool!
-• I taught myself to solve a Rubiks cube on a whim in about 4 days.
-• I've met Mariah Carey twice, and both times she called me Handsome 💅🏽
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danimalcrackrz&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
