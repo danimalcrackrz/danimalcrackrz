@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 Hi there 👋🏽
 
-• Hi, my name is Daniel Shaw and I am a Web Developer living in Austin, Tx  
+• Hi, my name is Daniel Shaw and I am a Software Engineer based in Austin, Tx  
 • [My Portfolio Website](https://danimalcrackrz.com)
 
 
