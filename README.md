@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 Hi there 👋🏽
 
 • Hi, my name is Daniel Shaw and I am a Software Engineer based in Dallas, Tx  
-• [My Portfolio Website](https://danimalcrackrz.com)
+• [My Portfolio Website](https://dandoesdev.com)
 
 
 
