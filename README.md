@@ -21,4 +21,4 @@ Hi there 👋🏽
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danimalcrackrz&include_all_commits=true&count_private=true&prs=50&show_icons=true&issues=20&theme=midnight-purple&rank_icon=github&hide=stars,contribs)](https://vercel.com/danimalcrackerzz/github-readme-stats/BcfNzfHmsSsBuSzBLKi1mzzufGKa)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=midnight-purple&size_weight=0.5&langs_count=4&count_weight=0.5&hide=glsl)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=midnight-purple&size_weight=0.5&langs_count=4&count_weight=0.5&hide=glsl)](https://github.com/anuraghazra/github-readme-stats)
