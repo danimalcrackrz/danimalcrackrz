@@ -17,6 +17,8 @@ Hi there 👋🏽
 • Hi, my name is Daniel Shaw and I am a Software Engineer based in Dallas, Tx  
 • [My Portfolio Website](https://dandoesdev.com)
 
-[![Anurag's GitHub stats](https://github-readme-stats-va5v-git-master-danimalcrackerzz.vercel.app/api?username=danimalcrackrz&include_all_commits=true&count_private=true&show_icons=true&theme=midnight-purple&rank_icon=github&hide=stars,contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.zohan.tech/api?username=danimalcrackrz&include_all_commits=true&count_private=true&show_icons=true&theme=midnight-purple&rank_icon=github&hide=stars,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats-va5v-git-master-danimalcrackerzz.vercel.app/api/top-langs/?username=danimalcrackrz&layout=compact&theme=midnight-purple&size_weight=0.5&langs_count=5&count_weight=0.5&hide=glsl)](https://github.com/anuraghazra/github-readme-stats)
+
+https://github-readme-stats.zohan.tech
