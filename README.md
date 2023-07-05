@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi there 👋🏽
+# Hi there 👋🏽
 
-• Hi, my name is Daniel Shaw and I am a Software Engineer based in Dallas, Tx  
+• Hi, my name is Daniel Shaw and I am a **Software Engineer** based in *Dallas, Tx*  
 • [My Portfolio Website](https://dandoesdev.com)
 
 [![Anurag's GitHub stats](https://github-readme-stats.zohan.tech/api?username=danimalcrackrz&include_all_commits=true&count_private=true&show_icons=true&theme=midnight-purple&rank_icon=github&hide=stars,contribs)](https://github.com/anuraghazra/github-readme-stats)
